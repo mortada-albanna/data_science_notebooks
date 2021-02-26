@@ -1,4 +1,4 @@
-beautifulsoup4 @ file:///home/linux1/recipes/ci/beautifulsoup4_1610988766420/work
+beautifulsoup4==4.9.3
 docutils==0.16
 docx2txt==0.8
 entrypoints==0.3
