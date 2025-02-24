@@ -17,7 +17,7 @@ nltk @ file:///tmp/build/80754af9/nltk_1592496090529/work
 numpy @ file:///C:/ci/numpy_and_numpy_base_1603468620949/work
 numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
 pandas @ file:///C:/ci/pandas_1611178799982/work
-pandas-profiling==1.4.1
+ydata_profiling==4.12.1
 pandocfilters @ file:///C:/ci/pandocfilters_1605102427207/work
 path @ file:///C:/ci/path_1611952544066/work
 pathlib2 @ file:///C:/ci/pathlib2_1607025068091/work
