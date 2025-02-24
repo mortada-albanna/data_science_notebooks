@@ -7,7 +7,7 @@ HeapDict==1.0.1
 pandas==1.2.2
 json5==0.9.5
 nltk==3.5
-pandas-profiling==1.4.1
+ydata_profiling==4.12.1
 requests==2.25.1
 pathtools==0.1.2
 PyPDF2==1.26.0
